@@ -1,5 +1,4 @@
-function ipad() {
-    /* Add "https://api.ipify.org?format=json" statement
+/* Add "https://api.ipify.org?format=json" statement
                this will communicate with the ipify servers in
                order to retrieve the IP address $.getJSON will
                load JSON-encoded data from the server using a
