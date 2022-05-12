@@ -36,8 +36,19 @@ h2.error {
 }
 
 .button {
-    position: absolute;
-    top: 50%;
     font-size: 2vw;
-    margin: 0px -50px
+    align-items: center;
+    padding: 2vw;
+    border: 2px solid #d90000;
+    border-radius: 8px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #d90000;
+}
+
+.button:active {
+    background-color: #800101
 }
