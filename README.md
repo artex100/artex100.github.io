@@ -1,1 +1,0 @@
-# artex100.github.io
